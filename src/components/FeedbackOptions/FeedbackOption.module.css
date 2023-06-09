@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.btn {
+  background-color: #fff;
+  border: 1px solid #b6b6b6;
+  border-radius: 6px;
+  cursor: pointer;
+  text-transform: capitalize;
+  padding: 4px;
+  font-weight: 600;
+}
