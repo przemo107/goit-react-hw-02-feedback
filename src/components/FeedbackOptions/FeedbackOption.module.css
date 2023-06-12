@@ -1,4 +1,5 @@
 body {
+  background-color: aliceblue;
   display: flex;
   justify-content: center;
   text-align: center;
@@ -11,11 +12,11 @@ body {
 }
 
 .btn {
-  background-color: #fff;
-  border: 1px solid #b6b6b6;
+  background-color: #51ff00;
+  border: 1px solid #0a4701;
   border-radius: 6px;
   cursor: pointer;
   text-transform: capitalize;
-  padding: 4px;
+  padding: 10px;
   font-weight: 600;
 }
